@@ -55,4 +55,4 @@ Contributions and feedback are welcome! Please understand the project is in earl
 
 ## Disclaimer
 - Tanuki is an independent app and is not officially associated with AniList or any manga publishers.
-- This is an experimental project andshould not be considered a production-ready application.
+- This is an experimental project and should not be considered a production-ready application.
