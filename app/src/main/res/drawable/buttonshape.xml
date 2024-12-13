@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#FFC7B7D8">
+
+    <!-- Define the background of the button -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#302434" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+
+    <!-- Define the ripple effect mask -->
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</ripple>
