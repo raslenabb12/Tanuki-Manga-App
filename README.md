@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://github.com/raslenabb12/Tanuki-Manga-App"><img src="./images/app_icon.png" alt="Tanuki" width="200"></a>
-</div>
-# Tanuki Manga App
 
+# Tanuki Manga App
+</div>
 ## ⚠️ Project Status: Under Active Development
 
 **WARNING: This app is a work in progress and has limited functionality.**
