@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/raslenabb12/Tanuki-Manga-App"><img src="./.github/images/app_icon.png" alt="Tanuki" width="200"></a>
+<a href="https://github.com/raslenabb12/Tanuki-Manga-App"><img src="./images/app_icon.png" alt="Tanuki" width="200"></a>
 
 # Tanuki Manga App
 
