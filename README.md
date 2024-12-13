@@ -44,7 +44,7 @@ Tanuki is an experimental Android application for browsing manga using the AniLi
 Contributions and feedback are welcome! Please understand the project is in early stages.
 
 ## License
-[MIT License]
+[MIT License](./LICENSE)
 
 ## Disclaimer
 This is an experimental project and should not be considered a production-ready application.
