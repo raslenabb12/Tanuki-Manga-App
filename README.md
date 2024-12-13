@@ -3,6 +3,8 @@
 
 # Tanuki Manga App
 </div>
+
+
 ## ⚠️ Project Status: Under Active Development
 
 **WARNING: This app is a work in progress and has limited functionality.**
