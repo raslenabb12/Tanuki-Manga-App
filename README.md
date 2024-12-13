@@ -4,6 +4,8 @@
 # Tanuki Manga App
 </div>
 
+![Screenshot](images/screenshot_1.png) ![Screenshot](images/screenshot_2.png)
+
 
 ## ⚠️ Project Status: Under Active Development
 
