@@ -22,7 +22,7 @@ Tanuki is an experimental Android application for browsing manga using the AniLi
 
 ## Planned Features
 - Advanced search functionality
-- User authentication
+- MAL User authentication
 - Reading list/favorites
 - More detailed manga information
 
